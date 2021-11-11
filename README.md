@@ -1,6 +1,6 @@
 # BCCN Classwork
 
-Aug. 2019 - Nov. 2021
+Oct. 2019 - Nov. 2021
 
 AAND - Acquisition and Analysis of Neural Data  
 CNS - Cognitive Neuroscience  
